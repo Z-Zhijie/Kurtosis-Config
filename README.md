@@ -1,6 +1,6 @@
 # Kurtosis Config
 
-This repository contains configuration files for Kurtosis.
+This repository contains configuration files for [Kurtosis](https://docs.kurtosis.com/install).
 
 ## Quick Start
 
